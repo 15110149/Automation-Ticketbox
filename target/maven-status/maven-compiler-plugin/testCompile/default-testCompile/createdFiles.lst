@@ -1,0 +1,10 @@
+Note.class
+Base\BaseSetup.class
+Test\LoginPageTest.class
+Support\JavaUtils.class
+browsers\FirefoxBrowser.class
+App.class
+browsers\CoccocBrowser.class
+Pages\LoginPage.class
+browsers\EdgeBrowser.class
+browsers\ChromeBrowser.class

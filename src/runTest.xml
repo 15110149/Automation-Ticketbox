@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG Parameters Suite">
+    <test name="LoginPageTest">
+        <parameter name="browserType" value="chrome" />
+        <parameter name="appURL" value="https://ticketbox.vn/" />
+        <classes>
+            <class name="Test.LoginPageTest"> </class>
+        </classes>
+    </test>
+</suite>
